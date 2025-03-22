@@ -243,7 +243,7 @@ Achievements/77/Name=All-seeing
 Achievements/77/Description=Equip {#Petals/{0}/Name}.
 
 Achievements/78/Name=Return to sender
-Achievements/78/Description=Hit a mob with {#Petals/{0}/Name}.
+Achievements/78/Description=Hit an enemy with {#Petals/{0}/Name}.
 
 Achievements/79/Name=Homewrecker
 Achievements/79/Description=Destroy an {#Mobs/{1}/Name}, {#Mobs/{2}/Name} or {#Mobs/{3}/Name}.
@@ -342,16 +342,16 @@ Achievements/110/Name=Touch grass
 Achievements/110/Description=Don't play the game for {0:time}.
 
 Achievements/111/Name=Racecar
-Achievements/111/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+Achievements/111/Description=Visit Garden, Desert, Jungle, Ocean, then return to Garden in less than {0:time}.
 
 Achievements/112/Name=Racecar
-Achievements/112/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+Achievements/112/Description=Visit Garden, Desert, Jungle, Ocean, then return to Garden in less than {0:time}.
 
 Achievements/113/Name=Racecar
-Achievements/113/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+Achievements/113/Description=Visit Garden, Desert, Jungle, Ocean, then return to Garden in less than {0:time}.
 
 Achievements/114/Name=Racecar
-Achievements/114/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+Achievements/114/Description=Visit Garden, Desert, Jungle, Ocean, then return to Garden in less than {0:time}.
 
 Achievements/115/Name=Biologist
 Achievements/115/Description=Destroy {0} different types of {#Rarities/{1}/Name}+ mobs without dying.
